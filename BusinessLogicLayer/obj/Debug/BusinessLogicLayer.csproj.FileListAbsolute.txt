@@ -1,0 +1,11 @@
+D:\Đồ Án\HRM\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\Đồ Án\HRM\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\Đồ Án\HRM\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+D:\Đồ Án\HRM\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Đồ Án\HRM\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\Đồ Án\HRM\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\Đồ Án\HRM\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+D:\Đồ Án\HRM\BusinessLogicLayer\bin\Debug\ValueObject.dll
+D:\Đồ Án\HRM\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\Đồ Án\HRM\BusinessLogicLayer\bin\Debug\ValueObject.pdb
+D:\Đồ Án\HRM\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete

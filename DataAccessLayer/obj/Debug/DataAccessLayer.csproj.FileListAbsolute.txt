@@ -1,0 +1,9 @@
+D:\Đồ Án\HRM\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Đồ Án\HRM\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Đồ Án\HRM\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+D:\Đồ Án\HRM\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Đồ Án\HRM\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Đồ Án\HRM\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Đồ Án\HRM\DataAccessLayer\bin\Debug\ValueObject.dll
+D:\Đồ Án\HRM\DataAccessLayer\bin\Debug\ValueObject.pdb
+D:\Đồ Án\HRM\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete

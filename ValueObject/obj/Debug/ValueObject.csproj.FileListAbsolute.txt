@@ -1,0 +1,6 @@
+D:\Đồ Án\HRM\ValueObject\bin\Debug\ValueObject.dll
+D:\Đồ Án\HRM\ValueObject\bin\Debug\ValueObject.pdb
+D:\Đồ Án\HRM\ValueObject\obj\Debug\ValueObject.csproj.CoreCompileInputs.cache
+D:\Đồ Án\HRM\ValueObject\obj\Debug\ValueObject.dll
+D:\Đồ Án\HRM\ValueObject\obj\Debug\ValueObject.pdb
+D:\Đồ Án\HRM\ValueObject\obj\Debug\ValueObject.csprojAssemblyReference.cache
